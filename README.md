@@ -20,6 +20,8 @@ In order to realize a digital signal for the RPM of an internal combustion engin
 
 TBT
 
+## Motor Wiring
 
+![](https://raw.githubusercontent.com/theHeathLee/RPM-CAN-Bus-Sensor/master/Photos/MotorWiringDiagram.png "Motor Wiring")
 ## Schematic
-![](https://raw.githubusercontent.com/theHeathLee/RPM-CAN-Bus-Sensor/master/Photos/schematicV1.PNG "pcb")
+![](https://raw.githubusercontent.com/theHeathLee/RPM-CAN-Bus-Sensor/master/Photos/schematicV1.PNG "Schematic")

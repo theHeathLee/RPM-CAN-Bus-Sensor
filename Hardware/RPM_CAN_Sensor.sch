@@ -238,7 +238,7 @@ CAN_RX
 Wire Wire Line
 	4600 3950 4450 3950
 Text GLabel 4600 4050 2    50   Input ~ 0
-CAN_RX
+CAN_TX
 Wire Wire Line
 	4600 4050 4450 4050
 $Comp
